@@ -1,0 +1,8 @@
+development:
+  password: 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
+  theme_id: "120392417412"
+  store: bada-vada.myshopify.com
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
